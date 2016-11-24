@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="iconsName">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+        <item>p9</item>
+        <item>p10</item>
+        <item>p11</item>
+        <item>p12</item>
+        <item>p13</item>
+        <item>p14</item>
+        <item>p15</item>
+        <item>p16</item>
+        <item>p17</item>
+        <item>p18</item>
+        <item>p19</item>
+        <item>p20</item>
+        <item>p21</item>
+        <item>p22</item>
+        <item>p23</item>
+        <item>p24</item>
+        <item>p25</item>
+        <item>p26</item>
+        <item>p27</item>
+        <item>p28</item>
+        <item>p29</item>
+        <item>p30</item>
+    </string-array>
+</resources>
